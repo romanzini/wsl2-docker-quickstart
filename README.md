@@ -163,9 +163,9 @@ Crie um arquivo chamado `.wslconfig` na raiz da sua pasta de usuário `(C:\Users
 
 ```txt
 [wsl2]
-memory=8GB
-processors=4
-swap=2GB
+memory=16GB
+processors=8
+swap=4GB
 ```
 
 Estes são limites de exemplo e as configurações mais básicas a serem utilizadas, configure-os às suas disponibilidades.
